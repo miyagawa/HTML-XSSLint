@@ -33,6 +33,8 @@ AUTHOR
     This library is free software; you can redistribute it and/or modify it
     under the same terms as Perl itself.
 
+    This module comes with NO WARRANTY.
+
 SEE ALSO
     the xsslint manpage, the HTML::XSSLint::Result manpage, the LWP manpage,
     the HTML::Form manpage

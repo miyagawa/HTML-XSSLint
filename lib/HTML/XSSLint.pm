@@ -123,6 +123,8 @@ Tatsuhiko Miyagawa E<lt>miyagawa@bulknews.netE<gt>
 This library is free software; you can redistribute it and/or modify
 it under the same terms as Perl itself.
 
+This module comes with B<NO WARRANTY>.
+
 =head1 SEE ALSO
 
 L<xsslint>, L<HTML::XSSLint::Result>, L<LWP>, L<HTML::Form>
